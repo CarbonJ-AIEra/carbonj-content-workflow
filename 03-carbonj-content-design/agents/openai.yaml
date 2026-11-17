@@ -1,0 +1,4 @@
+interface:
+  display_name: "carbonj-content-design"
+  short_description: "读取视频与字幕，生成一份七平台内容预览 Markdown"
+  default_prompt: "使用 $carbonj-content-design 读取这个视频，为七个平台生成原生标题、正文和标签，最终只交付输入文件旁边的一份七平台内容预览 Markdown。"

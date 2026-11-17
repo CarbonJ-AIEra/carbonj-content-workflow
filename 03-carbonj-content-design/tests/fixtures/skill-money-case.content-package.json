@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "videoPath": "/Users/carbonj/Documents/01_CarbonJ/20260802-skill赚钱案例讲解/8月3日.mp4",
+    "transcriptPath": "/Users/carbonj/Documents/01_CarbonJ/20260802-skill赚钱案例讲解/Skill赚钱案例口播稿.md",
+    "language": "zh-CN"
+  },
+  "contentBrief": {
+    "subject": "拆解一个海外 AI Skill 产品的变现案例",
+    "audience": "想把工作经验做成 AI Skill 或数字产品的普通创作者",
+    "painPoint": "网上把个案收入夸大成轻松暴富，普通人难以判断真正可复制的部分",
+    "outcome": "看清 Skill 产品的收入口径、产品包装和六步销售闭环",
+    "evidence": [
+      {
+        "claim": "Ryan Doser 是营销从业者，并把重复营销工作整理成 AI Skills",
+        "status": "verified",
+        "source": "口播稿 Ryan Doser 案例介绍段"
+      },
+      {
+        "claim": "Ryan 自报该数字产品累计收入超过一万美元",
+        "status": "attributed",
+        "source": "口播稿明确要求保留作者自报口径，且说明没有第三方审计"
+      },
+      {
+        "claim": "有人靠卖 Skill 赚了七十万元",
+        "status": "uncertain",
+        "source": "口播稿将其列为网上流传说法，并明确纠正为不能确认"
+      }
+    ],
+    "prohibitedClaims": [
+      "Ryan 靠卖 Skill 已被证实赚了七十万元",
+      "随便做几个 Skill 就能稳定赚钱",
+      "所有收入都来自 Skill 产品"
+    ]
+  },
+  "platforms": {
+    "xiaohongshu": {
+      "title": "AI Skill变现案例拆解",
+      "body": "AI Skill 到底能不能赚钱？我把一个资料相对完整的海外 Skill 变现案例认真拆了一遍。真正值得看的不是网上流传的暴富数字，而是他怎么把 SEO、邮件和内容运营这些重复工作整理成 AI Skill，再用真实项目测试，最后组合成一套可以交付的数字产品。收入也要讲清楚：超过一万美元是作者本人公开自报，没有第三方审计，更不能写成网传的七十万元。如果你也想把工作经验产品化，先别急着做几十个 Skill，先从一个经常发生、结果明确的小问题开始。",
+      "searchKeywords": ["AI Skill", "Skill变现", "数字产品"],
+      "topics": ["#AI工具", "#AISkill", "#数字产品", "#经验产品化"]
+    },
+    "douyin": {
+      "title": "卖AI Skill真能赚到钱吗",
+      "topics": ["#AI工具", "#AISkill", "#数字产品", "#经验产品化"]
+    },
+    "bilibili": {
+      "title": "卖 AI Skill 真能赚钱吗？拆解一个自报收入超 1 万美元的海外案例",
+      "description": "这期视频拆解 Ryan Doser 的 AI Skill 产品案例：他如何把 SEO、邮件、短视频和社交媒体等重复工作整理成一套产品，又如何通过免费样品、内容获客、落地页和持续更新完成销售闭环。收入部分严格保留来源边界：超过一万美元来自作者公开自报，没有第三方审计，也不能等同于网上流传的七十万元。看完你会知道，普通人真正能借鉴的是经验产品化，而不是照搬一个赚钱数字。",
+      "tags": ["#AI工具", "#Claude", "#AISkill", "#数字产品", "#内容创业", "#案例拆解"]
+    },
+    "wechat_channels": {
+      "shortTitle": "卖Skill别只看收入",
+      "coreTheory": "Skill 的价值不在 Markdown 文件，而在经过验证、能够重复交付的工作方法。",
+      "description": "核心理论：Skill 的价值不在 Markdown 文件，而在经过验证、能够重复交付的工作方法。\n\n这期视频拆解一个资料相对完整的海外 AI Skill 变现案例。先核对收入说法：超过一万美元是作者自报，没有第三方审计，也不能写成网传的七十万元。\n\n视频分成三个部分：第一，营销从业者怎样把 SEO、邮件和内容运营整理成 Skill；第二，如何用真实项目测试，再组合成完整产品；第三，普通人怎样从一个窄而具体的问题开始，而不是先做几十个文件。\n\n看完你会知道，真正可复制的是经验产品化、产品包装和持续获客，而不是一个孤立的赚钱数字。\n\n#AI工具 #AISkill #数字产品",
+      "hashtags": ["#AI工具", "#AISkill", "#数字产品"]
+    },
+    "x": {
+      "post": "The interesting part of selling AI Skills is not the Markdown file—or the viral revenue claim. In this case, the creator reported over $10K in cumulative revenue, without third-party verification. The useful lesson is the system: encode repeated work, test it on real projects, package related workflows, and sell the outcome rather than the files.",
+      "hashtags": ["#AISkills"]
+    },
+    "youtube": {
+      "title": "卖 AI Skill 能赚钱吗？海外案例、收入口径与产品化方法完整拆解",
+      "description": "一个不会写代码的营销从业者，怎样把重复工作整理成 AI Skills，并做成可以销售的数字产品？\n这期视频拆解他的产品包装、六步销售闭环和普通人可以借鉴的做法。关于收入，准确口径是作者自报累计超过一万美元，没有第三方审计，也不能写成网传的七十万元。\n\n你会看到：如何寻找适合做成 Skill 的任务、为什么要用真实项目测试、怎样把单个文件变成完整产品，以及内容获客为什么比文件数量更重要。",
+      "chapters": [],
+      "keywords": ["AI Skill", "Claude Skill", "数字产品", "经验产品化", "AI副业案例"],
+      "hashtags": ["#AISkill", "#数字产品"]
+    },
+    "wechat_official": {
+      "title": "卖 AI Skill，真正值钱的不是那几个 Markdown 文件",
+      "digest": "拆解一个海外 AI Skill 产品案例：收入数字该怎么说，普通人真正能复制的又是什么。",
+      "body": "最近网上一直有人说，做几个 AI Skill，放到海外就能轻松赚钱。还有人把一个案例传成了“靠卖 Skill 赚了七十万元”。但把资料逐项对上之后，更准确的结论没有这么刺激。\n\n这个案例的主人公 Ryan Doser 是一名营销从业者。他平时要做 SEO、邮件、Newsletter、社交媒体和 YouTube 包装，这些工作步骤多，而且每周都要重复。于是他把自己的工作方法整理成 Claude 可以执行的 Skill，再把四十多个相关 Skill 组合成一套营销工作系统。\n\n收入部分必须保留边界。Ryan 公开自报，这一个数字产品累计收入超过一万美元；但我们看不到完整的 Stripe 后台，也不知道历史价格、优惠、退款、手续费和税费。因此，它可以作为作者公开披露的案例，不能写成经过第三方审计的确定收入，更不能和他整个营销业务的其他收入混在一起。\n\n真正值得普通人学习的，是他做产品的顺序。第一，从自己反复做过的工作开始。第二，把步骤、判断标准和常见错误说清楚。第三，放进真实项目里测试。第四，把几个相关能力组合成完整系统。第五，用真实结果和案例证明价值。第六，通过 YouTube、博客、邮件和免费 Skill 持续获客。\n\n一个 Markdown 文件很容易被复制，但经过验证的经验、产品包装、持续更新和内容流量没有那么容易复制。普通人如果想尝试，不必先做四十个 Skill。先找一个窄而具体、自己确实反复解决过的问题，把它做成免费版本，让别人看到结果，再决定是否扩成完整产品。\n\nSkill 不是暴富密码。它更像一种新的交付方式：把你已经做成功的工作方法，变成可以重复执行、持续改进的数字产品。",
+      "keywords": ["AI Skill", "数字产品", "经验产品化", "Claude", "内容创业"]
+    }
+  },
+  "review": {
+    "needsUserConfirmation": [],
+    "notes": ["收入统一保留作者自报和无第三方审计限定", "YouTube 未生成章节，因为口播稿没有可靠视频时间点"]
+  }
+}
