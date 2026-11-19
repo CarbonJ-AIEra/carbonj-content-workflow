@@ -36,7 +36,7 @@
 
 **依据标题和视频画面制作适配不同平台尺寸的封面。**
 
-![CarbonJ Cover 生成的真实封面案例](02-carbonj-cover/docs/showcase/gallery.png)
+![CarbonJ Cover 生成的真实封面案例](02-carbonj-cover/docs/showcase/gallery-20261119.png)
 
 封面不只换一个比例：Skill 会结合视频实际画面和标题安排视觉重点，让封面内容与视频讲述相符。可使用 Agent 自主流程，也可使用带脚本的生成流程。默认支持小红书 `3:4`、B 站 `4:3` 和 `16:9` 画幅。
 

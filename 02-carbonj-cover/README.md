@@ -9,7 +9,7 @@
 ## 封面示例
 
 <p align="center">
-  <img src="docs/showcase/gallery.png" width="860">
+  <img src="docs/showcase/gallery-20261119.png" width="860">
 </p>
 <p align="center">
   <img src="docs/showcase/gallery-4x3.png" width="640">
